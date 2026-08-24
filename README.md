@@ -8,7 +8,7 @@
         <a href="SEU_LINK"><img src="./assets/resume.svg" alt="Resume" width="32" title="Resume"></a>
     </p>
     <p align="justify">
-        <h2>Web Developer</h2><br>
+        <b>Web Developer</b><br>
         My main technologies are <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b>, and <b>MySQL</b>.<br>
         Currently working on <b>My Collection of Everything</b>, a website for organizing and managing personal collections.<br>
         I have a <b>Technical Course in Systems Development (ETEC-CPS)</b>.

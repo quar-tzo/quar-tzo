@@ -2,7 +2,10 @@
     <img src="./assets/banner.svg" alt="Quartzo" width="100%">
     <h1>Hi, I'm Quartzo!</h1>
     <p>
-        <a href="">Bluesky</a>
+        <a href="">
+            <img src="./assets/bsky.svg" alt="Bluesky" width="20">
+            Bluesky
+        </a>
         &nbsp;•&nbsp;
         <a href="">X/Twitter</a>
         &nbsp;•&nbsp;

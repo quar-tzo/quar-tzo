@@ -3,16 +3,16 @@
     <h1>Hi, I'm Quartzo!</h1>
     <p>
         <a href="SEU_LINK" title="Bluesky">
-            <img src="./assets/bsky.svg" alt="Bluesky" width="24">
+            <img src="./assets/bsky.svg" alt="Bluesky" width="32">
         </a>
         <a href="SEU_LINK" title="X / Twitter">
-            <img src="./assets/x.svg" alt="X / Twitter" width="24">
+            <img src="./assets/x.svg" alt="X / Twitter" width="32">
         </a>
         <a href="SEU_LINK" title="Figma">
-            <img src="./assets/figma.svg" alt="Figma" width="24">
+            <img src="./assets/figma.svg" alt="Figma" width="32">
         </a>
         <a href="SEU_LINK" title="Resume">
-            <img src="./assets/resume.svg" alt="Resume" width="24">
+            <img src="./assets/resume.svg" alt="Resume" width="32">
         </a>
     </p>
     <p align="justify">

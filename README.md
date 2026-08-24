@@ -2,15 +2,18 @@
     <img src="./assets/banner.svg" alt="Quartzo" width="100%">
     <h1>Hi, I'm Quartzo!</h1>
     <p>
-        <a href="" title="Bluesky">
-            <img src="./assets/bsky.svg" alt="Bluesky" width="20">
+        <a href="SEU_LINK" title="Bluesky">
+            <img src="./assets/bluesky.svg" alt="Bluesky" width="24">
         </a>
-        &nbsp;•&nbsp;
-        <a href="">X/Twitter</a>
-        &nbsp;•&nbsp;
-        <a href="">Figma</a>
-        &nbsp;•&nbsp;
-        <a href="">Resume</a>
+        <a href="SEU_LINK" title="X / Twitter">
+            <img src="./assets/x.svg" alt="X / Twitter" width="24">
+        </a>
+        <a href="SEU_LINK" title="Figma">
+            <img src="./assets/figma.svg" alt="Figma" width="24">
+        </a>
+        <a href="SEU_LINK" title="Resume">
+            <img src="./assets/resume.svg" alt="Resume" width="24">
+        </a>
     </p>
     <p align="justify">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.

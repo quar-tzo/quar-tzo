@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/f5d677da44.js" crossorigin="anonymous"></script>
 <style>
     div {
         width: 100%;

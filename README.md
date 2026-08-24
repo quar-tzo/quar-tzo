@@ -3,7 +3,7 @@
     <h1> Hi I'm Quartzo! </h1>
     <div>
         <a href="">
-            <i class="fa-brands fa-bluesky"></i> Bluesky
+            <h2> Bluesky </h2>
         </a>
         <a href="">
             <i class="fa-brands fa-x-twitter"></i> X/Twitter

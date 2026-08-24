@@ -3,7 +3,7 @@
     <h1>Hi, I'm Quartzo!</h1>
     <p>
         <a href="SEU_LINK" title="Bluesky">
-            <img src="./assets/bluesky.svg" alt="Bluesky" width="24">
+            <img src="./assets/bsky.svg" alt="Bluesky" width="24">
         </a>
         <a href="SEU_LINK" title="X / Twitter">
             <img src="./assets/x.svg" alt="X / Twitter" width="24">

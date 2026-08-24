@@ -1,35 +1,3 @@
-<style>
-    div {
-        width: 100%;
-        display: grid;
-        text-align: center;
-        font-family: Poppins, Arial, sans-serif;
-    }
-    img {
-        width: 100%;
-        height: auto;
-        display: block;
-    }
-
-    div div {
-        background-color: #F1C40F;
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        text-align: center;
-    }
-
-    a {
-        color: white;
-        text-decoration: none;
-        font-weight: bolder;
-    }
-
-    p {
-        background-color: #202224;
-        padding: 40px;
-        text-align: justify;
-    }
-</style>
 <div>
     <img src="https://i.imgur.com/xQZ9qHq.png" alt="Quartzo">
     <h1> Hi I'm Quartzo! </h1>

@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./assets/banner.svg" alt="Quartzo" width="100%">
-    <h1>Hi, I'm Quartzo!👋</h1>
+    <h1>Hi, I'm Quartzo!</h1>
     <p>
         <a href="https://bsky.app/profile/quartzo33.bsky.social" target="_blank"><img src="./assets/bsky.svg" alt="Bluesky" width="32" title="Bluesky"></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://x.com/quar_tzo" target="_blank"><img src="./assets/x.svg" alt="X / Twitter" width="32" title="X/Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
